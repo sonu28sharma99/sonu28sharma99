@@ -20,13 +20,21 @@
 - ⚡ Fun fact **I like javaScript but i do DSA in C++**
 
 
+### Connect with me:
 
-<h3 align="left"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="none"><path d="M8 1v3.5A1.5 1.5 0 0 0 9.5 6H13v7.5a1.5 1.5 0 0 1-1.5 1.5h-.585a1.5 1.5 0 0 0-.354-1.56l-2-2A4.5 4.5 0 0 0 3 5.256V2.5A1.5 1.5 0 0 1 4.5 1H8zm1 .25V4.5a.5.5 0 0 0 .5.5h3.25L9 1.25zM6.596 12.303a3.5 3.5 0 1 1 .707-.707l2.55 2.55a.5.5 0 0 1-.707.708l-2.55-2.55zM7 9.5a2.5 2.5 0 1 0-5 0a2.5 2.5 0 0 0 5 0z" fill="#626262"/></g></svg>Connect with me:</h3>
-<p align="left">
-
-
-<a href="https://linkedin.com/in/sonu28sharma99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanshul-chandel" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/gourav-rusiya-52973b73/">
+    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/GRusiya">
+    <img align="left" alt="G R | Twitter" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/rusiyagr/">
+    <img align="left" alt="G R | Instagram" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:gouravrusiya.lnct@gmail.com">
+    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Gmail.svg" />
+  </a>
+<br />
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
