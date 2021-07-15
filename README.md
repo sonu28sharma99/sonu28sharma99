@@ -68,5 +68,5 @@
 <br>
 
 <div align="center">
-   <summary> Show some  ❤️  by starring this repository!</summary>
+   <summary> <h3> Show some  ❤️  by starring this repository! </h3></summary>
    </div>
