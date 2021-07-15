@@ -77,6 +77,6 @@
 
 <div align="center">
     </br>
-    <h3> Thanks for visiting🙏 </h3>
-   <summary> <h3> Show some  ❤️  by starring this repository! </h3></summary>
+    <h2><b> Thanks for visiting🙏 <b></h2>
+   <summary> <h4> Show some  ❤️  by starring this repository! </h4></summary>
    </div>
