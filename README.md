@@ -72,7 +72,7 @@
 </hr>
 </br>    
 
-<img align="center" src="./footer.png"/></a>
+<!--<img align="center" src="./footer.png"/></a>-->
 <br>
 
 <div align="center">
