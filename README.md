@@ -72,10 +72,3 @@
 </hr>
 </br>    
 
-<!--<img align="center" src="./footer.png"/></a>-->
-<br>
-
-<div align="center">
-    </br>
-    <h2><b> Thanks for visiting🙏 <b></h2>
-   </div>
