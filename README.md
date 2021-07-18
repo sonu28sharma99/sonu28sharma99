@@ -1,5 +1,5 @@
 
-<img align="center" src="./banner.png"/></a>
+<!-- <img align="center" src="./banner.png"/></a> -->
 
 <h1 align="center"><b>Hi 👋, I'm SONU SHARMA</b></h1>
 <h3 align="center"><i>(A passionate MERN Stack Developer from India.)</i></h3>
