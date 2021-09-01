@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu28sharma99&label=visitors%20&color=129e00&style=plastic" alt="sonu28sharma99" /> </p>
 <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
-- 💻 I'm a **5⭐ Rated Coder** at **Codechef**
+- 💻 I'm a **4⭐ Rated Coder** at **Codechef**
 
 - 👨‍💻 I'm rated **Specialist** at **Codeforces**
 
